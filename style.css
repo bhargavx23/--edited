@@ -1138,6 +1138,7 @@ footer {
     width: 100%;
     font-size: 67px;
     font-weight: 500;
+     animation: op2 ease 4s both;
   }
   .welcome #welcomesign{
     font-weight: 500;

@@ -250,7 +250,7 @@ display: none;
   min-height: 89vh;
   max-width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content:space-between;
   align-items: center;
   animation: op2,slidedown 4s ease-in-out ;
   animation-timeline: view();
@@ -1232,7 +1232,7 @@ footer {
     flex-direction: column;
     width: 100%;
     justify-self: end;
-    margin-bottom: 70px;
+    margin-bottom: 100px;
     
     padding: 0 20px;
     animation: op2 ease 4s both;

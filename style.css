@@ -1204,7 +1204,7 @@ footer {
     margin-top: 0;
     padding: 0;
     text-align: center;
-    animation: op2 ease 3s both;
+    animation: op2 ease 3s ;
   }
   .name {
     width: 100%;
@@ -1252,6 +1252,8 @@ footer {
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
     padding: 0;
+       animation: op2 ease 4s both;
+
   }
   .para b {
     font-size: 24px;
@@ -1286,6 +1288,7 @@ footer {
     border: 6px solid rgb(206, 76, 76);
     background-position: center;
     background-size: cover;
+    animation: op2 ease 4s both;
   }
   @keyframes slidedown {
     from {
